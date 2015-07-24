@@ -101,7 +101,7 @@ p a.count
 p b.count
 end
 
-# bla
+bla
 
 #------------------------------------------
 #Now use ActiveRecord to delete from your database any congresspeople who are not actively in office, then re-run your count to make sure that those rows were deleted.
@@ -117,7 +117,7 @@ p d.count
 
 end
 
-del
+# del
 
 
 #--------------------------------------
